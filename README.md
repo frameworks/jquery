@@ -1,4 +1,6 @@
 jQuery JavaScript Library.
 ==================
 
-jQuery.com
+http://www.jquery.com
+
+https://github.com/jquery/jquery
