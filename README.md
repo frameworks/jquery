@@ -1,4 +1,4 @@
-jQuery JavaScript Library.
+jQuery JavaScript Library
 ==================
 
 http://www.jquery.com
